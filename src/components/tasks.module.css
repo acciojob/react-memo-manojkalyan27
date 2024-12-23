@@ -1,1 +1,17 @@
 
+.container{
+    border-top: 2px solid black;
+    margin: 15px 0px;
+}
+
+.inputSection{
+    margin: 15px 0px;
+}
+
+.inputSection>h1{
+    padding-bottom: 10px;
+}
+
+.outputList{
+    margin: 0px 30px;
+}
