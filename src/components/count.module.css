@@ -1,1 +1,11 @@
 
+.paraCount{
+    margin: 10px 0px;
+}
+.heading{
+    padding: 15px 0px;
+}
+.container{
+    margin-top: 5px;
+    border-top: 2px solid black;
+}
