@@ -1,1 +1,16 @@
 
+.title{
+    margin: 10px 0px;
+    padding: 10px;
+}
+.title>h1 , .title>h2{
+    margin-bottom: 10px;
+}
+.displayMessage{
+    padding: 10px 0px;
+    /* margin-bottom: 10px; */
+}
+
+.output{
+    margin-bottom: 5px;
+}
