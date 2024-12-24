@@ -1,6 +1,6 @@
-import Todo from "./Assignments/React Memo Assignment/todoList/todo.jsx"
-import Count from "./Assignments/React Memo Assignment/Counter/count.jsx";
-import Tasks from "./Assignments/React Memo Assignment/addTasks/tasks.jsx"
+import Todo from "./todo.jsx"
+import Count from "./count.jsx";
+import Tasks from "./tasks.jsx"
 
 function App() {
   return (
