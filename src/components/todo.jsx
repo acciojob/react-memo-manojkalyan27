@@ -1,4 +1,3 @@
-
 import styles from "./todo.module.css";
 import { useState } from "react";
 
@@ -11,7 +10,8 @@ const Todo =()=>{
 
     return(       
         <>
-            <div className={styles.title}>
+        <div>
+        <div className={styles.title}>
                 <h1>React.useMemo</h1>
                 <h2>My todos</h2>
             </div>
@@ -25,6 +25,8 @@ const Todo =()=>{
             <div>
                 <button onClick={AddTodo}>Add Todo</button>
             </div>
+        </div>
+            
         </>
     )
 }
